@@ -9,6 +9,6 @@ def map [array]
 end 
 
 map[array] do 
-  |"double"| "#{double} source_array[i] * 2 "
+  |n| "#{n} array[i] * 2 "
 end 
   
