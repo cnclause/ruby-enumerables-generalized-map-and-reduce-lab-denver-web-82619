@@ -10,7 +10,7 @@ def map(array)
 end
 
 def reduce (array, starting_value = nil)  
-  total = starting_value 
+  new = starting_value 
   i = 0 
   while i < array.length do 
     total 
