@@ -3,9 +3,8 @@ def map [array]
   new [] 
   counter = 0 
   while counter < my_own_map.length do 
-  puts new.push() 
-  yield 
-  new 
+  yield new.push() 
+  
 end 
 
 map[array] do 
