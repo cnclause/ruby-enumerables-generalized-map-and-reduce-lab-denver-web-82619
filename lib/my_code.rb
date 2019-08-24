@@ -1,5 +1,5 @@
 # Your Code Here
-def my_own_map [array] 
+def map [array] 
   new [] 
   counter = 0 
   while counter < my_own_map.length do 
@@ -8,7 +8,7 @@ def my_own_map [array]
   new 
 end 
 
-my_own_map[array] do 
+map[array] do 
   |"double"| "#{double} source_array[i] * 2 "
 end 
   
