@@ -1,5 +1,5 @@
 # Your Code Here
-def map [array] 
+def map(array)
   new [] 
   counter = 0 
   while counter < my_own_map.length do 
