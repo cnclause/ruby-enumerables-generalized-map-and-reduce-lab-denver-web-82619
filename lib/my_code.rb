@@ -1,8 +1,11 @@
 # Your Code Here
 def map(array)
- 
-  
-end 
-
+ new = [] 
+ i = 0 
+ while i < array.length do 
+   i =+ 1  
+  end 
+ i =+ 1  
+end
 
   
