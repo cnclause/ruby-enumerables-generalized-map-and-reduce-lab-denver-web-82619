@@ -9,5 +9,5 @@ def map(array)
   new
 end
 
-def reduce(array) do 
+def reduce(source_array) do 
   
